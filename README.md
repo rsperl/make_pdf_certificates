@@ -15,3 +15,10 @@ Create the certificates like
 This will create `list_of_names.pdf` with one page per certificate. Each page will look like `template.pdf` but with a name on it.
 
 To troubleshoot, see the generated `list_of_names.json`. This file will look the same as `create.json` but with `.pages` populated.
+
+# Example
+
+```shell
+# Will create sample_names.pdf
+./create_all.sh template.pdf ./create.json sample_names.txt
+```
