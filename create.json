@@ -1,0 +1,17 @@
+{
+    "paper": "LetterL",
+    "texts": {
+        "studentName": {
+            "align": "center",
+            "pos": [
+                -1,
+                255
+            ],
+            "font": {
+                "name": "Helvetica",
+                "size": 24
+            }
+        }
+    },
+    "pages": {}
+}
