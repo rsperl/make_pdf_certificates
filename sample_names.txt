@@ -1,7 +1,7 @@
-Joyce Smith
-Richard Smith
-Gwen Smith
+Joyce Sugg
+Richard Sugg
+Gwen Litchfield
 
-# 
+#
 Perl the Dog
 
